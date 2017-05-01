@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: galleryformatter_thumb
+label: galleryformatter_thumb
+effects:
+  4524ccad-b249-4351-8f10-16943aeddf45:
+    uuid: 4524ccad-b249-4351-8f10-16943aeddf45
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 328
+      height: 246

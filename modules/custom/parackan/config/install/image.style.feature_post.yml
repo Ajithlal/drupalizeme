@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: feature_post
+label: feature-post
+effects:
+  59d9a2a5-5d88-4c3d-9900-fd43745d9da5:
+    uuid: 59d9a2a5-5d88-4c3d-9900-fd43745d9da5
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 328
+      height: 246

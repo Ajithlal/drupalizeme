@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: gallery_thumbs_page
+label: gallery_thumbs_page
+effects:
+  bb74ab40-7c63-48d7-8b00-a383fc29405d:
+    uuid: bb74ab40-7c63-48d7-8b00-a383fc29405d
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 328
+      height: 246

@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: gallery_thumbs
+label: gallery_thumbs
+effects:
+  6dd1064a-fccd-428d-bb08-8e957dab89b9:
+    uuid: 6dd1064a-fccd-428d-bb08-8e957dab89b9
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 105
+      height: 75

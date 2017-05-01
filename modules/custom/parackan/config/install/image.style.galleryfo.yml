@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: galleryfo
+label: galleryformatter_slide
+effects:
+  0419d8b2-148f-4c3d-bd00-cc10844bf853:
+    uuid: 0419d8b2-148f-4c3d-bd00-cc10844bf853
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 710
+      height: 300

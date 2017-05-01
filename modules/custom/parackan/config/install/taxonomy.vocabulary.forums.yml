@@ -1,0 +1,8 @@
+langcode: en
+status: true
+dependencies: {  }
+name: Forums
+vid: forums
+description: Forums
+hierarchy: 0
+weight: 0

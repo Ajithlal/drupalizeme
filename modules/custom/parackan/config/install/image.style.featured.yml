@@ -1,0 +1,13 @@
+langcode: en
+status: true
+dependencies: {  }
+name: featured
+label: featured
+effects:
+  e6e5c277-6580-4335-be00-cad1569ed1ab:
+    uuid: e6e5c277-6580-4335-be00-cad1569ed1ab
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 265
+      height: 135
